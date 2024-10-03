@@ -1,0 +1,55 @@
+{
+	"attrs": {
+		"type": "parameters",
+		"client": "block",
+		"version": "1.0.1",
+		"name": "scroll_to_top"
+	},
+	"header": {
+		"version": "1.0.0",
+		"license": "APL_license",
+		"author": "APL_author",
+		"creation": "APL_creation",
+		"copyright": "APL_copyright",
+		"email": "webmaster@alexsoft.gr",
+		"url": "www.alexsoft.gr",
+		"translator": "APL_translator",
+		"translatorEmail": "APL_translatorEmail",
+		"translatorUrl": "APL_translatorUrl",
+		"description": "APL_desc"
+	},
+	"params": {
+		"0": {
+			"paramgroup": "APL_paramgroup_general_label",
+			"0": {
+				"name": "theme",
+				"type": "themelist",
+				"placeholder":"APL_theme_placeholder",
+				"default": "default",
+				"label": "APL_theme_label",
+				"description": "APL_theme_desc"
+			},
+			"1": {
+				"name": "topElem",
+				"type": "integer",
+				"default": 100,
+				"label": "APL_topElem_label",
+				"description": "APL_topElem_desc"
+			},
+			"2": {
+				"name": "animateSpeed",
+				"type": "integer",
+				"default": 800,
+				"label": "APL_animateSpeed_label",
+				"description": "APL_animateSpeed_desc"
+			},
+			"3": {
+				"name": "finalScrollTop",
+				"type": "integer",
+				"default": 0,
+				"label": "APL_finalScrollTop_label",
+				"description": "APL_finalScrollTop_desc"
+			}
+		}
+	}
+}
