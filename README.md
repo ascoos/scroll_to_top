@@ -4,6 +4,11 @@
 
 # Ascoos Cms Block | `scroll_to_top`
 
+![GitHub Release](https://img.shields.io/github/v/release/ascoos/scroll_to_top) 
+![GitHub Release Date](https://img.shields.io/github/release-date/ascoos/scroll_to_top?color=%230E80C0)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ascoos/scroll_to_top/total?color=%230E80C0) 
+![GitHub repo size](https://img.shields.io/github/repo-size/ascoos/scroll_to_top)
+[![PHP Classes](https://img.shields.io/badge/php-classes-blue.svg)](https://www.phpclasses.org/package/13358.html) 
 
 ## Description
 
